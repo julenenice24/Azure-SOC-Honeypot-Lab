@@ -84,17 +84,18 @@ Event
 ```
 
 ## Screenshots
+
 ### World Attack Map
-![World Attack Map](screenshots/world-attack-map.png)
+![World Attack Map](world-attack-map.png)
 
 ### Attacker IP Leaderboard
-![Attacker Leaderboard](screenshots/attacker-leaderboard.png)
+![Attacker Leaderboard](attacker-leaderboard.png)
 
 ### Brute Force Usernames
-![Usernames](screenshots/brute-force-usernames.png)
+![Usernames](brute-force-usernames.png)
 
-### Brute Force Usernames
-![Virustotal](screenshots/brute-force-virustotal.png)
+### VirusTotal Confirmation
+![VirusTotal](virustotal.png)
 
 ## Key Takeaways
 - An exposed RDP port attracts automated brute force attacks within hours
