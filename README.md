@@ -93,6 +93,9 @@ Event
 ### Brute Force Usernames
 ![Usernames](screenshots/brute-force-usernames.png)
 
+### Brute Force Usernames
+![Virustotal](screenshots/brute-force-virustotal.png)
+
 ## Key Takeaways
 - An exposed RDP port attracts automated brute force attacks within hours
 - Attackers target common service account names like Veeam, backup, oracle
